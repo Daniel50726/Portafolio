@@ -93,6 +93,11 @@ section.title{
 
 .title__bio {
     font-size: 52px;
+    font-weight: bold;
+}
+
+.title__subsection {
+    font-size: 22px;
     font-weight: normal;
 }
 
